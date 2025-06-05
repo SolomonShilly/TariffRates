@@ -7,6 +7,8 @@
 - U.S. tariff rates are reaching peaks that have not been seen in almost a century
 - Line chart on U.S. outstanding debt from 1901 - 2024
 - Double Line Chart comparing the movement of U.S. outstanding debt to tariff rates
+- U.S. Tariff Rates have been declining prior to 2019 while outstanding debt has continued to increase since the 1940s
+- "The only certainty is uncertainty". The U.S. will have to adapt to new prices or new processes, which we will analzye next
 
 ### Data Scraper
 - TariffScraper.py
