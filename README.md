@@ -1,4 +1,5 @@
 ## Visualizations on Tariff Rates from the last 125 years
+- TariffRates.twbx
 - Area chart with annotations is a replication of Irina Ivanova and Doug Chayka's work in "How to Survive a Trade War" from Fortune Magazine.
 - Treemap was done to find comparable tariff rates to 2025. 1922 and 1939 were the closest.
 
